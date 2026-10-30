@@ -1,0 +1,17 @@
+# Never commit keys or credentials
+*.pem
+*.ppk
+*.key
+id_rsa*
+id_ed25519*
+.ssh/
+.aws/
+credentials
+*.env
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
